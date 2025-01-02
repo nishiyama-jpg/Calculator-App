@@ -44,17 +44,18 @@ Here are some screenshots and a video recording of the app in use:
 
 ### Light Mode
 
-![Light Mode Screenshot 1]()
+![Light Mode Screenshot 1](https://github.com/nishiyama-jpg/Calculator-App/blob/main/light%20mode.PNG)
+
 
 
 ### Dark Mode
 
-![Dark Mode Screenshot 1](path/to/dark-mode-screenshot1.png)
+![Dark Mode Screenshot 1](https://github.com/nishiyama-jpg/Calculator-App/blob/main/dark%20mode.PNG)
 
 
 ### Video Recording
 
-[![Video Recording](path/to/video-thumbnail.png)](path/to/video-recording.mp4)
+[Screen Recording of the application in use.](https://github.com/nishiyama-jpg/Calculator-App/blob/main/calcapp.MP4)
 
 
 ## Technologies Used
