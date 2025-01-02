@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+# CalculatorApp 📱
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+CalculatorApp is a simple calculator application developed using React and Expo. It provides basic arithmetic operations, an easy-to-use UI, along with dark mode and light mode features.
 
-## Get started
+## Installation
 
-1. Install dependencies
+### Prerequisites
 
-   ```bash
-   npm install
-   ```
+- Node.js (version >= 14.x)
+- npm or Yarn (package manager)
 
-2. Start the app
+### Steps to Run the Application Locally
 
-   ```bash
-    npx expo start
-   ```
+1. Clone the repository:
 
-In the output, you'll find options to open the app in a
+    ```bash
+    git clone https://github.com/nishiyama-jpg/Calculatorapp.git
+    ```
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+2. Navigate into the project directory:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+    ```bash
+    cd Calculatorapp
+    ```
 
-## Get a fresh project
+3. Install the dependencies:
 
-When you're ready, run:
+    ```bash
+    npm install
+    ```
 
-```bash
-npm run reset-project
-```
+4. Start the development server:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+    ```bash
+    npm start
+    ```
 
-## Learn more
+    This will open the Expo developer tools, and you can scan the QR code using the Expo Go app on your mobile device or run the app in the emulator.
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Screenshots
 
-## Join the community
+Here are some screenshots and a video recording of the app in use:
 
-Join our community of developers creating universal apps.
+### Light Mode
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+![Light Mode Screenshot 1]()
+
+
+### Dark Mode
+
+![Dark Mode Screenshot 1](path/to/dark-mode-screenshot1.png)
+
+
+### Video Recording
+
+[![Video Recording](path/to/video-thumbnail.png)](path/to/video-recording.mp4)
+
+
+## Technologies Used
+
+- React for building the user interface.
+- Expo for building and deploying the mobile application.
+- React Navigation for managing the app's navigation.
+- JavaScript for logic and functionality.
+
+## Tutorial Credit
+
+This app was created by following the tutorial from GitHub user [@betomoedano](https://github.com/betomoedano). You can find the tutorial video on [YouTube](https://www.youtube.com/watch?v=_fYgGS46h2w).
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
